@@ -1,10 +1,6 @@
 # Project exclude paths
-/gradle/
-/.gradle/
-/idea/
-.class
-/out/test/classes/com/book/webservice/web/HelloControllerTest.class
-/out/production/classes/com/book/webservice/Application.class
-/out/production/classes/com/book/webservice/web/HelloController.class
-/out/production/classes/com/book/webservice/web/dto/HelloResponseDto.class
-/out/test/classes/com/book/webservice/web/dto/HelloResponseDtoTest.class
+/gradle/*
+/.gradle/*
+/.idea/*
+*.class
+/out/*
